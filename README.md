@@ -13,3 +13,5 @@ Your access token can be found on Canvas -> Account -> Settings -> New Access To
 To run, simply just run `python grade.py` and follow the given prompts.
 
 If you are running into import issues, install everything found in requirements.txt.
+
+Since grading can take a while, type q and enter for any grading prompt to quit out and save your progress.
