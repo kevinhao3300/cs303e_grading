@@ -11,3 +11,5 @@ In order for this to work, add your canvas api token to a config.json file. Form
 Your access token can be found on Canvas -> Account -> Settings -> New Access Token
 
 To run, simply just run `python grade.py` and follow the given prompts.
+
+If you are running into import issues, install everything found in requirements.txt.
